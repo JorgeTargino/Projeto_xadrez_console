@@ -12,3 +12,4 @@ C:\dev\Curso_C#\Projeto_XadrezConsole\Xadrez_Console\obj\Debug\net8.0\refint\Pro
 C:\dev\Curso_C#\Projeto_XadrezConsole\Xadrez_Console\obj\Debug\net8.0\Projeto_XadrezConsole.pdb
 C:\dev\Curso_C#\Projeto_XadrezConsole\Xadrez_Console\obj\Debug\net8.0\Projeto_XadrezConsole.genruntimeconfig.cache
 C:\dev\Curso_C#\Projeto_XadrezConsole\Xadrez_Console\obj\Debug\net8.0\ref\Projeto_XadrezConsole.dll
+C:\dev\Curso_C#\Projeto_XadrezConsole\Xadrez_Console\obj\Debug\net8.0\Projeto_XadrezConsole.sourcelink.json
